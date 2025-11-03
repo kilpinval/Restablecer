@@ -1,0 +1,41 @@
+Para restaurar tu ASUS X550L a la configuración de fábrica, la tecla principal que debes presionar es F9 durante el arranque para acceder a la partición de recuperación incorporada.
+
+En la tabla siguiente encontrarás un resumen de los métodos disponibles:
+
+Método Tecla/Acción Cuándo Usarlo
+Recuperación ASUS (F9) Presionar F9 al encender (antes del logo de Windows) Método principal; restaura el sistema operativo original de ASUS con sus aplicaciones preinstaladas.
+Entorno de Recuperación (WinRE) Shift + clic en "Reiniciar" (desde Windows o pantalla de inicio de sesión) Cuando Windows no inicia correctamente o no puedes acceder al sistema.
+Restablecimiento desde Configuración Menú de Inicio > Configuración > Actualización y seguridad > Recuperación Opción más sencilla si Windows funciona con normalidad.
+
+🛠️ Restablecimiento por Medio de la Partición de Recuperación (Tecla F9)
+
+Este es el método más directo para devolver tu ASUS X550L a su estado de fábrica original, incluyendo el sistema operativo y el software específico de ASUS.
+
+1. Apaga completamente el portátil.
+2. Enciende el equipo y, inmediatamente después de que aparezca el logo de ASUS, presiona repetidamente la tecla F9 hasta que aparezca una pantalla nueva.
+3. En la pantalla de "Windows Boot Manager", selecciona "Windows Setup [EMS Enabled]" y pulsa Enter.
+4. Se abrirá el "Asus Preload Wizard". Te dará a elegir entre diferentes opciones de recuperación:
+   · Recover Windows to first partition only: Borra y restaura la partición principal (C:), pero puede afectar a los datos en otras particiones.
+   · Recover Windows to entire HD: Borra todo el disco duro y crea una única partición nueva.
+   · Recover Windows to entire HD with 2 partitions: Borra todo el disco duro y lo divide en dos particiones.
+5. Selecciona la opción que prefieras (la segunda es la más común para un restablecimiento completo), haz clic en Siguiente y sigue las instrucciones en pantalla para completar el proceso. El portátil se reiniciará automáticamente una vez finalizado.
+
+⚙️ Restablecimiento desde el Entorno de Recuperación de Windows (WinRE)
+
+Si no puedes acceder con F9 o Windows falla, este método es una buena alternativa.
+
+1. Desde la pantalla de inicio de sesión de Windows, mantén presionada la tecla Shift y, sin soltarla, haz clic en Reiniciar.
+2. Esto te llevará a una pantalla azul ("Elegir una opción"). Selecciona Solucionar problemas.
+3. Luego, elige Restablecer este PC.
+4. Aquí tendrás dos opciones:
+   · Conservar mis archivos: Reinstala Windows y elimina las aplicaciones, pero mantiene tus documentos personales.
+   · Quitarlo todo: Elimina todos tus archivos, aplicaciones y configuraciones. Esta es la opción para un restablecimiento de fábrica completo.
+5. Sigue las instrucciones en pantalla para completar el proceso.
+
+💡 Antes de Restablecer: Preparativos Importantes
+
+· Haz una copia de seguridad de tus datos: El proceso de restablecimiento eliminará todos tus archivos personales. Guarda tus documentos, fotos, música y otros datos importantes en un disco duro externo o servicio en la nube.
+· Conecta el cargador: Asegúrate de que el portátil está conectado a la corriente eléctrica durante todo el proceso para evitar interrupciones.
+· Ten paciencia: El proceso puede tardar desde 30 minutos hasta varias horas. No apagues el equipo manualmente.
+
+Espero que esta guía te sea de ayuda. Si tienes más preguntas sobre algún paso en particular, no dudes en preguntar.
